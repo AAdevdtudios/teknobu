@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-Marshmallow
+marshmallow-sqlalchemy
+psycopg2-binary
+Werkzeug
+python-decouple
+flask-cors
